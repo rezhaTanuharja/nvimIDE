@@ -11,6 +11,8 @@
   </p>
   <p align="left">
     This project attempts to create an IDE-like experience for writing and editing code with nvim.
+    The project is heavily inspired by <a href="https://github.com/LunarVim">LunarVim</a> and follows instructions from the excellent step-by-step tutorial <a href="https://youtu.be/ctH-a-1eUME?si=mAsw4Qno6kmIIuQy">Neovim IDE from Scratch</a> by <a href="https://www.chrisatmachine.com">www.chrisatmachine.com</a>.
+    If you are interested in detailed explanations and videos, you should check him out.
   </p>
 </div>
 
